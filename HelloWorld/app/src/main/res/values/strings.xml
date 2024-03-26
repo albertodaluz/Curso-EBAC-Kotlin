@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Inicio</string>
+    <string name="second_fragment_label">Prévia</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Inicio</string>
+
+    <string name="hello_first_fragment">
+        Eu amo programar!
+    </string>
+    <string name="primeiro_app">
+        Esse é meu primeiro aplicativo do curso da EBAC :)
+    </string>
+</resources>
